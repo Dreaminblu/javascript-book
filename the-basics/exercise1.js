@@ -5,5 +5,5 @@ const name = `${firstName} ${lastName}`;
 
 console.log(name);
 
-const fullName = 'Sara' + 'Song';
+const fullName = 'Sara' + '' + 'Song';
 console.log(fullName);
